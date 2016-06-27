@@ -1,0 +1,16 @@
+{
+  "name": "demo-app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "demo.html",
+  "window": {
+  	"width": 1280,
+  	"height": 720,
+    "icon": "icon.png"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "WTFPL"
+}
